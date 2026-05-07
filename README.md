@@ -57,8 +57,8 @@ crud_project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/thecodewithabhi/django-crud-app.git
-cd django-crud-app
+git clone https://github.com/TextCourses/python-aqa-ui-test-app.git
+cd python-aqa-ui-test-app
 
 # Create virtual environment
 python -m venv env
