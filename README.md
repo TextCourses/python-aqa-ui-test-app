@@ -4,21 +4,6 @@ A simple and clean CRUD (Create, Read, Update, Delete) web application built usi
 
 ---
 
-## 📌 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Admin Panel](#admin-panel)
-- [Available Routes](#available-routes)
-- [Screenshots](#screenshots)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## ✅ Features
 
 - Add new Member
